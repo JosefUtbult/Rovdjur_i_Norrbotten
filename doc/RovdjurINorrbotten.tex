@@ -1,0 +1,42 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{csquotes}
+
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage[hashEnumerators]{markdown}
+
+\usepackage{nameref}
+\usepackage{graphicx}
+\graphicspath{ {../Images/} }
+
+% Defines how the section reference looks
+\newcommand{\sectiondescribe}[1]{(Sektion {#1})}
+\newcommand{\imagedescribe}[1]{(Bild {#1})}
+\addto\captionsenglish{\renewcommand{\figurename}{Bild}}
+
+\title{\Huge \textbf{Rovdjur i Norrbotten}}
+\author{\textsc{Josef Utbult}}
+
+\begin{document}
+\pagenumbering{roman}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+%
+\input{Bakgrund.tex}
+\newpage
+%
+\input{OvrigaPlatser.tex}
+\newpage
+%
+\input{Karaktarer.tex}
+\newpage
+
+
+\end{document}

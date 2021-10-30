@@ -4,8 +4,9 @@ build_target:
 
 	# Build twice to get all references correctly
 	cd doc; \
-	pdflatex -output-directory=../build RovdjurINorrbotten.tex; \
-	pdflatex -output-directory=../build RovdjurINorrbotten.tex;
+	lualatex -output-directory=../build RovdjurINorrbotten.tex; \
+	lualatex -output-directory=../build RovdjurINorrbotten.tex;
+
 
 clean:
 	rm build/*.aux build/*.log build/*.out build/*.toc

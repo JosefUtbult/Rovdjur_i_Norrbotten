@@ -3,24 +3,28 @@
 \subsection{Leopardarm}
 \label{var:Leopardarm}
 %
-\begin{center}
-	\rowcolors{2}{gray!25}{white}
-	\begin{tabular}{ | c | c | }
-		\hline
-		Egenskap & Värde \\
-		\hline
-		STY & 95 \\
-		FYS & 50 \\
-		STO & 10 \\
-		SMI & 95 \\
-		VST & 65 \\
-		\hline
-	\end{tabular}
-\end{center}
+\character
+{95}	% STY
+{50}	% FYS
+{10}	% STO
+{95}	% SMI
+{-}		% KAR
+{20}	% INT
+{-}		% VST
+{-}		% UTB
+{4}		% Kroppspoöng
+{+1T4}	% Skadebonus
+{0}		% Kroppsbyggnad
+{0}		% Förflyttning
 %
-\textbf{KP:} 4 \quad \textbf{Skadebonus:} +1T4 \\
-\textbf{Kroppsbyggnad:} 0 \quad \textbf{Förflyttning:} 0 \\
-\\
+% Färdigheter
+{
+\characterAbility{Strid (Handgemäng)}{80}
+\characterAbility{Ducka}{20}
+}
+%
+% Beskrivning
+{
 En \textit{leopardarm} är en åkallad åkallelse från Prof. Olofsson som materialiseras från en tegelvägg och tar tag i en utredare. Den kommer att börja riva och bita i utredarens hals och försöker sedan växa ihop med dennes upprivna kött. Det sker i den här ordningen, en per spelrunda. Under varje spelrunda som utredaren är vid medvetande kan denne försöka ta sig fri från greppet. Det blir ett styrkeslag mellan utredaren och armen. Om armen blir skadad kommer den börja röra sig och skaka utredaren, men den kommer inte att försvara sig.
 
 \begin{enumerate}
@@ -30,74 +34,65 @@ En \textit{leopardarm} är en åkallad åkallelse från Prof. Olofsson som mater
 	\item Armen är nu en del av utredaren. Den måste nu avlägsnas kirurgiskt, men om någon lyckas med ett extremt svårt slag för styrka kan de slita av den. Det skulle kännas som att slita ut någons adamsäpple, och utredaren måste klara ett extremt svårt slag för viljestyrka för att inte svimma. Den tar också 2T4 i skada.
 	\item Armen växer in i utredarens luftrör, och denne börjar kvävas. Utredaren kommer att kvävas efter fem spelrundor. Denne får slå ett slag för viljestyrka för att inte svimma, och måste klara stegvis ökande svårighetsgrader för varje runda. Efter fem spelrundor är utredaren död.
 \end{enumerate}
-
+%
 När armen går till 0 KP kommer den bli livlös. Om den suttit på utredaren mer än två spelrundor kommer den fortfarande vara vid liv, men handlingslös tills den avlägsnas från halsen. Annars kommer den börja likvideras till en klump av kött och ben utsmetat på väggen och marken.
-
+}
 
 \subsection{Leopard (Homunculus)}
 \label{var:Leopard}
+\character
+{95}	% STY
+{50}	% FYS
+{90}	% STO
+{80}	% SMI
+{-}		% KAR
+{30}	% INT
+{-}		% VST
+{-}		% UTB
+{13}	% Kroppspoöng
+{1T6}	% Skadebonus
+{2}		% Kroppsbyggnad
+{10}	% Förflyttning
 %
-\begin{center}
-	\rowcolors{2}{gray!25}{white}
-	\begin{tabular}{ | c | c | }
-		\hline
-		Egenskap & Värde \\
-		\hline
-		STY & 95 \\
-		FYS & 50 \\
-		STO & 10 \\
-		SMI & 95 \\
-		VST & 65 \\
-		\hline
-	\end{tabular}
-\end{center}
+% Färdigheter
+{
+\characterAbility{Strid (Handgemäng)}{80}
+\characterAbility{Ducka}{60}
+\characterAbility{Smyga}{40}
+\characterAbility{Spåra}{30}
+}
 %
-\textbf{KP:} 13 \quad \textbf{Skadebonus:} 3 \\
-\textbf{Kroppsbyggnad:} 2 \quad \textbf{Förflyttning:} 10 \\
-\\
-\textbf{Attacker per runda:} 2 \\
-\textbf{Stridsattacker}
-\begin{itemize}
-	\item Strid 60\%, skada 2T6 + 3
-	\item Ducka 25\%
-\end{itemize}
-\textbf{Rustning:} 2 poäng päls och hud. \\
-\textbf{Färdigheter:}
-\begin{itemize}
-	\item Smyga 30\%
-	\item Spåra 35\%
-\end{itemize}
-%
+% Beskrivning
+{
 En \textit{leopard homonculus} är en kropp, lik en leopard, som har animerats av Prof. Olofsson. Dessa agerar mycket som vanliga leoparder, men de klarar mycket mer stryk och kan fortsätta strida även om de är lemlästade. När en leopard homonculus dör smälter de ihop till en sörja av blod och ben. Professorn kan bara åkalla en leopard per dag, igenom en utförlig ritual.
+}
 %
 \subsection{Buse}
 \label{var:Buse}
 %
-\begin{center}
-	\rowcolors{2}{gray!25}{white}
-	\begin{tabular}{ | c | c | }
-		\hline
-		Egenskap & Värde \\
-		\hline
-		STY & 65 \\
-		FYS & 50 \\
-		STO & 45 \\
-		SMI & 40 \\
-		KAR & 35 \\
-		INT & 30 \\
-		VST & 35 \\
-		\hline
-	\end{tabular}
-\end{center}
+\character
+{65}	% STY
+{50}	% FYS
+{45}	% STO
+{40}	% SMI
+{35}	% KAR
+{30}	% INT
+{35}	% VST
+{30}	% UTB
+{9}		% Kroppspoöng
+{0}		% Skadebonus
+{0}		% Kroppsbyggnad
+{8}		% Förflyttning
 %
-\textbf{KP:} 9 \quad \textbf{Skadebonus:} 0 \\
-\textbf{Kroppsbyggnad:} 0 \quad \textbf{Förflyttning:} 8 \\
-\\
-\textbf{Färdigheter}:
-\begin{itemize}
-	\item Hota 50\%
-	\item Strid (Handgemäng) 35\%
-	\item Smyga 40\%
-	\item Kasta 30\%
-	\item Språk (Svenska) 16\%
-\end{itemize}
+% Färdigheter
+{
+\characterAbility{Hota}{50}
+\characterAbility{Strid (Handgemäng)}{45}
+\characterAbility{Smyga}{40}
+\characterAbility{Språk (Svenska)}{25}
+}
+%
+% Beskrivning
+{
+En \textit{Buse} är en av medlemmarna i Porsöligan, en kriminell organisation som håller till runt Porsön. De är inga kriminella genier, men de kan ändå hålla sig i en strid. Det förekommer att de har en kniv på sig för konfrontationer, som har en skada på 1T4.
+}

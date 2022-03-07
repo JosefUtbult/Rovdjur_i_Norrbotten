@@ -1,11 +1,13 @@
+COMPILER := pdflatex
+
 build_target:
 	rm -rf build
 	mkdir build
 
 	# Build twice to get all references correctly
 	cd doc; \
-	lualatex -output-directory=../build RovdjurINorrbotten.tex; \
-	lualatex -output-directory=../build RovdjurINorrbotten.tex;
+	$(COMPILER) -output-directory=../build RovdjurINorrbotten.tex; \
+	$(COMPILER) -output-directory=../build RovdjurINorrbotten.tex;
 
 
 clean:

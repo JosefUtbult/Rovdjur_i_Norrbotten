@@ -1,63 +1,64 @@
 {{toc,wide
 # Table Of Contents
 
-- ### [{{ Bakgrund}}{{ 2}}](#p2)
-  - #### [{{ En kommentar om äventyret}}{{ 2}}](#p2)
-  - #### [{{ Utredarna}}{{ 2}}](#p2)
-  - #### [{{ Äventyrets början}}{{ 2}}](#p2)
-  - #### [{{ Annas Middag}}{{ 3}}](#p3)
-  - #### [{{ Utanför Annas lägenhet}}{{ 3}}](#p3)
-- ### [{{ Mordet}}{{ 4}}](#p4)
-- ### [{{ Biblioteket}}{{ 5}}](#p5)
-  - #### [{{ Vid biblioteksentrén}}{{ 5}}](#p5)
-  - #### [{{ Inne på bibloteket}}{{ 5}}](#p5)
-    - [{{ Borfima}}{{ 5}}](#p5)
-- ### [{{ Brådmans Bar}}{{ 6}}](#p6)
-  - #### [{{ Inne på baren}}{{ 6}}](#p6)
-  - #### [{{ Utanför Baren}}{{ 7}}](#p7)
-- ### [{{ SRT}}{{ 8}}](#p8)
-  - #### [{{ Att ta sig till G huset}}{{ 8}}](#p8)
-- ### [{{ G Huset}}{{ 9}}](#p9)
-- ### [{{ Professorers Kontor}}{{ 10}}](#p10)
-  - #### [{{ Prof. Chapdelains kontor}}{{ 10}}](#p10)
-  - #### [{{ Prof. Olofssons kontor}}{{ 11}}](#p11)
-  - #### [{{ Övriga professorers kontor}}{{ 12}}](#p12)
-    - [{{ Kontor 1}}{{ 12}}](#p12)
-    - [{{ Kontor 2}}{{ 12}}](#p12)
-    - [{{ Kontor 3}}{{ 12}}](#p12)
-
-:
-
-- ### [{{ Prof. Olofssons Villa}}{{ 13}}](#p13)
-- ### [{{ Övriga platser}}{{ 14}}](#p14)
-  - #### [{{ Servicedesk}}{{ 14}}](#p14)
-- ### [{{ Åkallelsen}}{{ 15}}](#p15)
-- ### [{{ Epilog}}{{ 16}}](#p16)
-  - [{{ Professor tappat vettet}}{{ 16}}](#p16)
-- ### [{{ Karaktärer}}{{ 17}}](#p17)
-  - #### [{{ Anna Olofsson}}{{ 17}}](#p17)
-  - #### [{{ Konstapel Carl Svidstål}}{{ 17}}](#p17)
-  - #### [{{ Generisk Professor}}{{ 17}}](#p17)
-  - #### [{{ Prof. Tomas Olofsson}}{{ 18}}](#p18)
-  - #### [{{ Prof. Migel Chapdelain}}{{ 18}}](#p18)
-  - #### [{{ Frank Åsman}}{{ 19}}](#p19)
-    - [{{ Nattväktarna}}{{ 19}}](#p19)
-- ### [{{ Varelser}}{{ 20}}](#p20)
-  - #### [{{ Leopardarm}}{{ 20}}](#p20)
-  - #### [{{ Leopard (Homunculus)}}{{ 21}}](#p21)
-  - #### [{{ Buse}}{{ 21}}](#p21)
-- ### [{{ Föremål}}{{ 22}}](#p22)
-  - #### [{{ Borfima}}{{ 22}}](#p22)
-  - #### [{{ Leopardkniv}}{{ 22}}](#p22)
-}}
-
-
+- #### [{{ Bakgrund}}{{ 2}}](#p2)
+  - [{{ En kommentar om äventyret}}{{ 2}}](#p2)
+  - [{{ Utredarna}}{{ 2}}](#p2)
+  - [{{ Äventyrets början}}{{ 2}}](#p2)
+  - [{{ Annas Middag}}{{ 3}}](#p3)
+  - [{{ Utanför Annas lägenhet}}{{ 3}}](#p3)
+- #### [{{ Mordet}}{{ 4}}](#p4)
+- #### [{{ Biblioteket}}{{ 5}}](#p5)
+  - [{{ Vid biblioteksentrén}}{{ 5}}](#p5)
+  - [{{ Inne på bibloteket}}{{ 5}}](#p5)
+- #### [{{ Brådmans Bar}}{{ 6}}](#p6)
+  - [{{ Inne på baren}}{{ 6}}](#p6)
+  - [{{ Utanför Baren}}{{ 7}}](#p7)
+- #### [{{ SRT}}{{ 8}}](#p8)
+  - [{{ Att ta sig till G huset}}{{ 8}}](#p8)
+- #### [{{ G Huset}}{{ 9}}](#p9)
+- #### [{{ Professorers Kontor}}{{ 10}}](#p10)
+  - [{{ Prof. Chapdelains kontor}}{{ 10}}](#p10)
+  - [{{ Prof. Olofssons kontor}}{{ 11}}](#p11)
+  - [{{ Övriga professorers kontor}}{{ 12}}](#p12)
+- #### [{{ Prof. Olofssons Villa}}{{ 13}}](#p13)
+- #### [{{ Övriga platser}}{{ 14}}](#p14)
+  - [{{ Servicedesk}}{{ 14}}](#p14)
+- #### [{{ Åkallelsen}}{{ 15}}](#p15)
+- #### [{{ Epilog}}{{ 16}}](#p16)
+- #### [{{ Karaktärer}}{{ 17}}](#p17)
+  - [{{ Anna Olofsson}}{{ 17}}](#p17)
+  - [{{ Konstapel Carl Svidstål}}{{ 17}}](#p17)
+  - [{{ Generisk Professor}}{{ 17}}](#p17)
+  - [{{ Prof. Tomas Olofsson}}{{ 18}}](#p18)
+  - [{{ Prof. Migel Chapdelain}}{{ 18}}](#p18)
+  - [{{ Frank Åsman}}{{ 19}}](#p19)
+- #### [{{ Varelser}}{{ 20}}](#p20)
+  - [{{ Leopardarm}}{{ 20}}](#p20)
+  - [{{ Leopard (Homunculus)}}{{ 21}}](#p21)
+  - [{{ Buse}}{{ 21}}](#p21)
+- #### [{{ Föremål}}{{ 22}}](#p22)
+  - [{{ Borfima}}{{ 22}}](#p22)
+  - [{{ Leopardkniv}}{{ 22}}](#p22)
+    }}
 
 
 
 \page
 
-# Bakgrund
+# Del 1 - Rovdjur i Norrbotten
+
+{{titleQuote,wide
+
+Shub-Niggurath! Skogens svarta get med tusen avkomma!
+
+###### H.P. Lovecraft, _Viskningar i mörkret_
+
+}}
+
+\page
+
+## Bakgrund
 
 Luleå Universitet är (i det här fiktiva universumet) ett universitet som anlades utanför Luleå år 1886. De
 institutioner som är främst aktiva här är Institutionen för naturhistoria, där botanik och zoologi forskas om,
@@ -77,7 +78,7 @@ som också är ansvarig utgivare för _Luleå studentkårs magasin_. Det hela b�
 Annas lägenhet på middag. Natten efter detta upplever alla äventyrare samma dröm, och när de väcks av en polis
 vid deras dörr får de reda på att Anna har funnits död, med stora klösmärken över hennes strupe...
 
-## En kommentar om äventyret
+### En kommentar om äventyret
 
 Detta äventyr, som de flesta andra Call of Chtulu-äventyr, utspelar sig under en mycket problematisk tid.
 Universitetets anställda professorer är alla män, vilket jag låtit hållas enligt denna tidsålder. Jag ber om
@@ -88,7 +89,7 @@ för dessa skulle kunna användas, har jag ändå valt att referera till dem i d
 problematiska versionen för de tidsenliga uttrycken. De nämns i det här äventyret som _svarta_ eller
 _den svarte mannen_. Jag ber om ursäkt om även detta anses anstötligt, men det är den kompromiss som jag valt.
 
-## Utredarna
+### Utredarna
 
 Idén med de äventyr som utspelar sig på Luleå Universitet är att Utredarna ska vara studenter vid universitetet.
 Detta är absolut inte skrivet i sten, de kan vara folk som lever runt omkring universitetet eller någon som
@@ -101,7 +102,7 @@ Förslag på yrken till utredarna är _student_, _författare_, _ingenjör_, _pr
 Då utredarna är studenter kan du be dem slå om sitt slag för utbildning ifall de får över 80%, då det skulle
 varit färdigutbildat för länge sedan.
 
-## Äventyrets början
+### Äventyrets början
 
 {{descriptive
 _Luleå Universitet_ är Norrlands metropol när det kommer till den akademiska världen. Trots att antalet
@@ -119,7 +120,7 @@ Luleå Universitet. Ni träffar alla varandra vid trappuppgången till hennes st
 
 \page
 
-## Annas Middag
+### Annas Middag
 
 Äventyrarna blir snart insläppta i Annas lägenhet, en tvåa med en kokvrå, ett vardagsrum och ett sovrum. De
 serveras en stek med potatis och kokta grönsaker och Anna börjar småprata. Hon nämner att hon haft sådana
@@ -130,7 +131,7 @@ När äventyrarna lämnar Anna verkar hon sömnig, men ändå väldigt glad öve
 
 ::::::::
 
-## Utanför Annas lägenhet
+### Utanför Annas lägenhet
 
 {{descriptive
 När ni kommer ut från lägenheten är det mörkt ute. Det ni ser är upplyst av de gatulyktor som finns placerade på
@@ -143,7 +144,7 @@ individ som spionerat på dem är borta.
 
 \page
 
-# Mordet
+## Mordet
 
 Sedan när alla sover.
 
@@ -195,9 +196,9 @@ och att det bästa sättet att få kontaktuppgifter till en professor är att g�
 
 \page
 
-# Biblioteket
+## Biblioteket
 
-## Vid biblioteksentrén
+### Vid biblioteksentrén
 
 {{descriptive
 Ni rör er mot B husets södra ingång, mot ängen. Det är en av skolans större ingångar,
@@ -214,7 +215,7 @@ Han vet några saker som han kan tänka sig berätta om utredarna är trevliga e
 - Folk har sett mystiska saker på universitetet. Rovdjur som rört sig i skuggorna och skrämt livet ur både
   studenter och arbetande.
 
-## Inne på bibloteket
+### Inne på bibloteket
 
 I biblioteket jobbar en äldre dam vid namn Rosa Edensdag. Hon är lätt grinig, men kan hjälpa utredarna hitta vad
 de vill ha med en normalt lyckat slag för övertyga. Annars kan en utredare slå ett slag för bokföring och lyckas
@@ -225,7 +226,7 @@ nordöstra Afrika_.
 
 {{book
 
-### Borfima
+#### Borfima
 
 Enligt den svarte mannen kring Sierra Leon, är en borfima en typ av avbild använd av _Leopardsälskapet_,
 till för att blidka en gud; i dessas fall deras _Leopard-gud_. En borfima består av en påse oftast gjord i
@@ -236,15 +237,13 @@ offret vara _från bärarens kött_, helst en son eller dotter men övriga offer
 inträffat. När denna borfima fyllts på, det gruppen kallat att _mata_ borfiman, ska denne bringa lycka och
 makt åt innehavaren. En dåligt skött borfima ska däremot bringa olycka på hela dennes familj.
 
-###### Utdrag ur _Poro-, Leopard- och Krokodilsällskapet; Naturreligioner i Sierra Leon och nordöstra Afrika_, Prof. T Olofsson.
+####### Utdrag ur _Poro-, Leopard- och Krokodilsällskapet; Naturreligioner i Sierra Leon och nordöstra Afrika_, Prof. T Olofsson.
 
 }}
 
 \page
 
-# Brådmans Bar
-
-## Inne på baren
+## Brådmans Bar
 
 {{descriptive
 Luften i baren är fylld av dova samtal och röken från cigaretter. Bakom den stora ek-baren står en herre och
@@ -281,7 +280,7 @@ spionera på Anna Olofsson. Om utredarna fokuserar på busarna lyckas dock profe
 
 \page
 
-## Utanför Baren
+### Utanför Baren
 
 {{descriptive
 Dörren ut ur baren leder till en mörk gränd mellan huset där baren ligger och Porsöns handelsbod. Det enda
@@ -325,7 +324,7 @@ dennes hals.
 
 \page
 
-# SRT
+## SRT
 
 _Institutionen för signeri- och rationellt avvikande teknik_, eller förkortat; SRT, är en sektion under Luleå
 Universitet som inte många känner till. Denna institution är dock en stor anledning till att universitetet över
@@ -334,7 +333,7 @@ Norrland för att studera diverse fornlämningar och dylikt. Denna institution �
 _G huset_, en katedral-liknande byggnad som ligger placerad i en dimensionell ficka på andra sidan vägen av
 C huset.
 
-## Att ta sig till G huset
+### Att ta sig till G huset
 
 För att ta sig till G huset krävs det att Utredarna utför en simpel ritual, bestående av att gå en specifik
 slinga mellan husen på universitetet. Denna slinga finns beskriven i form av en dikt på lappen som Professor
@@ -362,7 +361,7 @@ För att ta sig till G huset måste Utredarna gå följande slinga.
 
 \page
 
-# G Huset
+## G Huset
 
 Viker utredarna av från den specificerade vägen nollställs ritualen, och de måste åter igen börja från F huset.
 Om de kommer till vägen mellan E huset och F huset händer följande.
@@ -407,9 +406,9 @@ Börjar utredarna ställa till med oreda ropar professorn på några förbipasse
 Detta gör att byggnaden försvinner när utredarna inte ser på den, och de förbipasserande ingriper.
 
 \page
-# Professorers Kontor
+## Professorers Kontor
 
-## Prof. Chapdelains kontor
+### Prof. Chapdelains kontor
 
 Professor Chapdelains är för närvarande inte på sitt kontor, men utredarna kan lätt upptäcka att dörren är olåst.
 Kontoret verkar vara mycket spartanskt. Det finns en tom bokhylla, ett skrivbord, en kontorsstol samt ett
@@ -440,7 +439,7 @@ träffar på honom på [Brådmans Bar](#brådmans-bar).
 
 \page
 
-## Prof. Olofssons kontor
+### Prof. Olofssons kontor
 
 Om utredarna kommer till Prof. Olofssons kontor den första dagen är inte professorn där, utan en handskriven
 lapp är fäst på hans dörr.
@@ -449,7 +448,7 @@ lapp är fäst på hans dörr.
 
 Ursäkta min brådskande frånvaro, men av tragiska familjeskäl har jag blivit tvungen att ta tjänstledigt. Jag beklagar, då jag har nämnt för mina studenter att jag ska vara närvarande idag, samt ber jag om ursäkt för de möten som jag tvärt blivit tvungen att ställa in. Jag är dock åter igen imorgon under mina vanliga arbetstider.
 
-###### Prof. Olofsson
+####### Prof. Olofsson
 
 }}
 
@@ -512,26 +511,26 @@ Leone, emot Leopardsällskapet_."
 }}
 
 
-## Övriga professorers kontor
+### Övriga professorers kontor
 
 Här är några kontor du kan använda om Utredarna går till någon av professorerna, förutom Prof. Migele Chapdelain
 eller Prof. Tomas Olofsson.
 
-### Kontor 1
+#### Kontor 1
 
 Utredarna ser ett mörkt rum, fyllt med kartonger och diverse bråte. De mörkt röda persiennerna är nerdragna, och
 när ni känner på dörren är den låst. Om Utredarna väljer att dyrka upp dörren är det ett svårt slag, då
 universitetet använder säkra lås för sina kontor. I kontoret kan dock utredarna finna dokument och mindre verktyg
 som korresponderar med professorns fält, samt en en mindre kniv använd för att öppna kartonger samt brev.
 
-### Kontor 2
+#### Kontor 2
 
 Utredarna kommer till ett kontor med ett skrivbord centrerat i rummet. Bakom skrivbordet sitter professorn och
 läser i en tidskrift. Om någon undersöker tidskriften kan man lätt se att det är den senaste volymen av _Luleå
 studentkårs magasin_. På skrivbordet står en skrivmaskin och en massa papper samt böcker är utspridda runt
 omkring.
 
-### Kontor 3
+#### Kontor 3
 
 Utredarna ser ett rum med skrivbord, hylla samt en soffa som alla är intryckta emot väggarna. I mitten av rummet
 står någonting relaterat till professorns fält. Det kan vara:
@@ -553,7 +552,7 @@ I rummet håller professorn på med sitt projekt. Om utredarna frågar professor
 
 \page
 
-# Prof. Olofssons Villa
+## Prof. Olofssons Villa
 
 Professorns villa ligger utanför Porsön, men inom promenad avstånd. När man kommer in i villan känner man en
 instängd doft av ett dåligt vädrat hem full av gamla möbler, och dåligt belysta rum med gardiner över alla
@@ -571,9 +570,9 @@ systerdotter med; en [_Leopardkniv_](#leopardkniv).
 
 \page
 
-# Övriga platser
+## Övriga platser
 
-## Servicedesk
+### Servicedesk
 
 I hus B på Luleå Universitet kan man gå till _Servicedesk_, något utav en lobby för universitetet. Där jobbar en
 dam vid namn _Karolin Markesjö_, en äldre kvinna som fungerar som hjälpperson för de som undrar saker om
@@ -610,7 +609,7 @@ professor inom något abstrakt fält.
 
 \page
 
-# Åkallelsen
+## Åkallelsen
 
 Åkallelsen som professor Olofsson kommer utföra var planerat två dagar efter mordet på Anna, och kommer också
 utföras då ifall utredarna är för långsamma. Om de pratat med bibliotekarien Rosa om att de letat efter
@@ -649,7 +648,9 @@ Fasansfulla saker kommer att hända om inte riten fullbordas"
 Låt utredarna välja om de vill göra nått. Försöker de röra sig mot Prof. Olofsson ser de hur en
 [_leopard_](#leopard-homunculus) rör sig ur skuggan framför dem och ställer sig mellan dem och professorn.
 
-{{descriptive
+\page
+
+{{descriptive,wide
 
 Ni ser hur molnet börjar att bubbla och växer sig ännu större. Snart täcker det nästan hela himmelen ovanför
 er och ni ser hur delar av molnet börjar ta form. Ni ser hur taggar, munnar, tentakler och hovar reser sig ur
@@ -683,9 +684,11 @@ Utredarna har bevittnat _Sub-Niggorath_, den getbehovade förvridna fruktbarhets
 utredarna 1T10/1T100 i sinneshälsa. Professorn har fått se saker ingen människa bör se och ligger nu på marken
 och gråter, spritt språngande galen.
 
+:::
+
 \page
 
-# Epilog
+## Epilog
 
 Lyckas Utredarna att föra leopardkniven till polishuset, och visa [_Carl Svidsstål_](#konstapel-carl-svidstål)
 denna, har polisen nog grund för att anhålla Professor Olofsson. De tar sig till professorn hus för att
@@ -694,7 +697,7 @@ Månader efter uppmärksammar ni en artikel i Luleå lokaltidning.
 
 {{book
 
-### Professor tappat vettet
+#### Professor tappat vettet
 
 Professor Thomas Olofsson hittades tidigt i morse liggande i parken utanför Luleå
 Universitet, rabblande och till synes spritt språngande galen efter den natt av oklara
@@ -719,15 +722,87 @@ professorn, utan också de varelser som lever i våra svenska skogar.
 
 \page
 
+# Jakten
+
+{{titleQuote,wide
+
+Även från de största fasorna är ironi sällan frånvarande. Ibland träder det
+fram direkt i historiens händelseförlopp, medans det ibland endast relaterar slumpartat till dess personer och platser.
+
+###### H.P. Lovecraft, _Det förkastade huset_
+
+}}
+
+\page
+
+## Bakgrund
+
+Tore Hålst är en äldre herre i tidiga femtioårsåldern med en gård utanför Råneå, norr om Luleå. Han ärvde gården
+och har följt sin faders fotspår resulterande i hans yrke som grisbonde. Det är ett bra jobb, men herr Hålst
+suktar alltid efter hans sanna passion: Jakt. När han är där ute i den råa vildmarken om vintrarna, tålmodigt
+spejande efter älg mår Tore som bäst. Och efter ridturen hem med sitt pris bundet på släden sätter han sig vid
+kaminen och pustar ut: Då leker livet.
+
+Herr Hålst har samlat ett jaktlag för en helgs utflykt. Hans kamrater har samlats på gården på fredagen, och
+tidigt på lördagen bär sig sällskapet av med häst och släde mot vildmarken. Men vem är det som kommer jaga och
+vem kommer att jagas?
+
+## Äventyrets början
+
+{{descriptive
+
+Kylan biter i era blottade ansikten. För varje andetag ser ni hur kristaller bildas i luften och snabbt
+försvinner i medvinden. Ni sitter i släden tillhörande er vän Tore Hålst, en grisbonde med en gård utanför Råneå
+(norr om Luleå). Han har bjudit ut er på en jakttur i hans jaktdistrikt några mil öster om Råneå. Ni samlades på
+gården fredag eftermiddag där ni spenderade natten. Tidigt morgonen därefter satte ni av mot jaktmarken i en
+släde efter Tores häst Bruno. Resan gick först ganska fort längst med den större vägen mot Boden, men senare vek
+ni av mot mindre vägar där även Bruno behöver streta. Herr Hålst vänder sig mot er och säger.
+
+"Vi är nog där om ett par timmar hörrni. Som sagt så jagar vi till middag, vi gör upp en eld och äter och sen så
+rör vi oss hem igen. Så får vi hoppas att vi skjuter nått också."
+
+}}
+
+Låt spelarna få prata av sig lite. Efter det kan du påminna dem om att de har med sig jaktvapen. De kan välja
+mellan att ha ett [Remington jaktgevär](#skjutvapen) eller ett [Hagelgevär](#skjutvapen). Ge varje spelare det
+antal skott specificerat, i form av någon sorts token. Spelkulor eller mynt är bra tokens.
+
+### I gläntan
+
+{{descriptive
+
+Ni rider ett par timmar till längst det spår som indikerar att det här finns en skogsstig. Vägen ringlar sig
+mellan stock och sten, och tar sedan stopp i en skogsglänta.
+
+"Här, mina vänner, är gränsen till mitt jaktdistrikt. Jag föreslår att vi tar lite tid att sträcka på oss och
+för förberedelser. Sen rör vi oss in mot det jakttorn som ligger närmast."
+
+}}
+
+Tore lastar av lite saker från kärran, tyglar av Bruno och binder binder honom i ett träd. När Tore är färdig
+säger han åt er att "det är dags", och ni börjar röra er in i skogen.
+
+\page
+
+## I jakttornet
+
+{{descriptive
+
+Det var tufft och långsamt att ta sig igenom snötäcket som låg orört av männskliga fötter och inte alls var lika
+vältrampat som stigen till gläntan. Men efter några kilometer når ni er destination; ett jakttorn som sträcker
+sig många meter upp i luften
+
+}}
+
+\page
+
 # Karaktärer
-
-
 
 {{cocCharacter
 
 {{cocStatsBlock
 
-## Anna Olofsson
+### Anna Olofsson
 
 Student vid _Luleå Universitet_
 
@@ -763,7 +838,7 @@ kände att hon behövde ett eget hem.
 
 {{cocStatsBlock
 
-## Konstapel Carl Svidstål
+### Konstapel Carl Svidstål
 
 Polis vid Luleå Poliskår
 
@@ -797,7 +872,7 @@ källa. Det blev även hans uppdrag att berätta för utredarna vad som hänt.
 
 {{cocStatsBlock
 
-## Generisk Professor
+### Generisk Professor
 
 Professor vid _Luleå Universitet_
 
@@ -835,7 +910,7 @@ på. Välj två fält inom vetenskap som de ska ha färdigheter inom.
 
 {{cocStatsBlock
 
-## Prof. Tomas Olofsson
+### Prof. Tomas Olofsson
 
 Professor inom Asiatisk och Afrikansk religion
 
@@ -880,7 +955,7 @@ professorn till att, med en rituell leopard kniv, ta livet på sin egna systerdo
 
 {{cocStatsBlock
 
-## Prof. Migel Chapdelain
+### Prof. Migel Chapdelain
 
 Professor inom Litterär historia, ansvarig för institutionen SRT
 
@@ -924,7 +999,7 @@ som gav honom insikter om verkligheten i utbyte mot hans öga.
 
 {{cocStatsBlock
 
-## Frank Åsman
+### Frank Åsman
 
 Hemlös, spion för _Nattväktarna_
 
@@ -957,7 +1032,7 @@ och har sett en ökad aktivitet av onaturliga varelser runt universitetet. Han k
 Professor Olofsson sedan tidigare, då de brukade boxas tillsammans. Men han vet ingenting om
 professorns senare handlingar.
 
-### Nattväktarna
+#### Nattväktarna
 
 {{titleQuote
 
@@ -981,7 +1056,7 @@ Nattväktarna har ett utskott i Luleå, där de primärt håller ett öga på [S
 
 # Varelser
 
-## Leopardarm
+### Leopardarm
 
 En _leopardarm_ är en åkallad åkallelse från Prof. Olofsson som materialiseras från en
 tegelvägg och tar tag i en utredare.
@@ -990,7 +1065,7 @@ tegelvägg och tar tag i en utredare.
 
 {{cocStatsBlock
 
-### Leopardarm
+#### Leopardarm
 
 En läm likt en leopards, täckt i blod och tänder
 
@@ -1015,7 +1090,7 @@ En läm likt en leopards, täckt i blod och tänder
 
 **Färdigheter** : Strid (Handgemäng) 80%, Ducka 60%
 
-### Attacker
+#### Attacker
 
 **Sammanvävt kött**: När en leopardarm får tag i en person kommer den att börja riva och bita i
 utredarens hals och försöker sedan växa ihop med dennes upprivna kött. Det sker i den här ordningen,
@@ -1063,7 +1138,7 @@ kommer den börja likvideras till en klump av kött och ben utsmetat på väggen
 
 \page
 
-## Leopard (Homunculus)
+### Leopard (Homunculus)
 
 En _leopard homonculus_ är en kropp, lik en leopard, som har animerats av Prof. Olofsson.
 Dessa agerar mycket som vanliga leoparder, men de klarar mycket mer stryk och kan fortsätta
@@ -1073,7 +1148,7 @@ av blod och ben. Professorn kan bara åkalla en leopard per dag, igenom en utfö
 
 {{cocStatsBlock
 
-### Leopard (Homunculus)
+#### Leopard (Homunculus)
 
 Animerad best likt en leopard
 
@@ -1098,7 +1173,7 @@ Animerad best likt en leopard
 
 **Färdigheter** : Strid (Handgemäng) 80%, Ducka 40%, Smyga 40%, Spåra 30%
 
-### Attacker
+#### Attacker
 
 **En leopards klor**: Med en leopards klor kan denna best skära igenom kött, ben och tunna skydd. En utredare som
 utsätts för dessa klor tar 1T4 i skada plus bestens skadebonus.
@@ -1115,7 +1190,7 @@ något annat.
 
 
 
-## Buse
+### Buse
 
 En _Buse_ är en av medlemmarna i Porsöligan, en kriminell organisation som håller till runt
 Porsön. De är inga kriminella genier, men de kan ändå hålla sig i en strid
@@ -1124,7 +1199,7 @@ Porsön. De är inga kriminella genier, men de kan ändå hålla sig i en strid
 
 {{cocStatsBlock
 
-### Buse
+#### Buse
 
 Ligist från _Porsöligan_
 
@@ -1149,7 +1224,7 @@ Ligist från _Porsöligan_
 
 **Färdigheter** : Hota 50%, Strid (Handgemäng) 45%, Smyga 40%, Språk (Svenska) 25%
 
-### Attacker
+#### Attacker
 
 **Kniv**: Det förekommer att en buse har kniv på sig för konfrontationer, som har en skada på 1T4 + skadebonus.
 
@@ -1160,7 +1235,7 @@ Ligist från _Porsöligan_
 
 # Föremål
 
-## Borfima
+### Borfima
 
 En _borfima_ är en läderpåse innehållande blod, fett, äggvita, tupp-blod och ris. Denna borfima tillbads av
 _Leopardsällskapet_, och skulle ge innehavaren lycka och framgång, men till ett högt pris. Borfiman behövde
@@ -1182,7 +1257,11 @@ Med mer kunskap och studier kan borfiman även användas för att åkalla _Shub-
 under en klar natthimmel, med borfiman och frammför ett leopardaltare. När den mörka gudinnan är åkallad ska
 borfiman, som fungerar som ett människooffer, sprättas upp och tömmas över altaret.
 
-## Leopardkniv
+\page
+
+# Vapen
+
+### Leopardkniv
 
 En _Leopardkniv_ är ett vapen som primärt används av Leopardsälskapet för strid och för att mörda sina offer.
 Prof. Olofsson har fått en som en gåva ifrån en medlem i sällskapet, som han använde för att offra sin
@@ -1190,3 +1269,17 @@ systerdotter. Den ligger nu i professorns nattygsbord i hans villa. Kniven har t
 vinkelrätt emot dess blad.
 
 ![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/main/img/LeopardKniv.png?raw=true) {width:325px,mix-blend-mode:multiply}
+
+
+
+{{wide
+##### Skjutvapen
+
+| Namn                   | Färdighet               | Skada     | Räckvid    | Eldhastighet | Magasin | Antal skott på person |
+|:-----------------------|:------------------------|:---------:|:----------:|:------------:|:-------:|:---------------------:|
+| Remington M1867        | Skjutvapen (gevär)      | 2T6+4     | 100 m      | 1/3          | 1       | 6                     |
+| Hagelgevär kal 12 (2P) | Skjutvapen (hagelgevär) | 4/2/1 T6  | 10/20/50 m | 1 eller 2    | 2       | 4                     |
+
+}}
+
+

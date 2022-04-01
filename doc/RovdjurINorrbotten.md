@@ -435,7 +435,7 @@ kan de fiska upp den lapp som sitter på baksidan av bokhyllan. De kan även fö
 normalt lyckat slag, och på så sätt få tag i lappen. Lappen är densamme som Migele har i rockfickan när de
 träffar på honom på [Brådmans Bar](#brådmans-bar).
 
-![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/main/img/ProfChapsKontor.png?raw=true) {width:325px,mix-blend-mode:multiply}
+![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/homebrewery/img/ProfChapsKontor.png?raw=true) {width:325px,mix-blend-mode:multiply}
 
 \page
 
@@ -488,7 +488,7 @@ så är det från något helt annat. Det närmaste jag sett de där såren, är 
 savannen och hjälpte en maasaikrigare läka ett sår från ett lejon."
 }}
 
-![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/main/img/ProfOlofssonsKontor.png?raw=true) {width:325px,mix-blend-mode:multiply}
+![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/homebrewery/img/ProfOlofssonsKontor.png?raw=true) {width:325px,mix-blend-mode:multiply}
 
 
 \page
@@ -563,7 +563,7 @@ systerdotter med; en [_Leopardkniv_](#leopardkniv).
 
 
 {{wide
-![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/main/img/ProfOlofssonsVilla.png?raw=true) {width:660px,mix-blend-mode:multiply}
+![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/homebrewery/img/ProfOlofssonsVilla.png?raw=true) {width:660px,mix-blend-mode:multiply}
 }}
 
 
@@ -754,11 +754,11 @@ vem kommer att jagas?
 {{descriptive
 
 Kylan biter i era blottade ansikten. För varje andetag ser ni hur kristaller bildas i luften och snabbt
-försvinner i medvinden. Ni sitter i släden tillhörande er vän Tore Hålst, en grisbonde med en gård utanför Råneå
+försvinner i medvinden. Ni sitter i släden tillhörande er vän _Tore Hålst_, en grisbonde med en gård utanför Råneå
 (norr om Luleå). Han har bjudit ut er på en jakttur i hans jaktdistrikt några mil öster om Råneå. Ni samlades på
 gården fredag eftermiddag där ni spenderade natten. Tidigt morgonen därefter satte ni av mot jaktmarken i en
 släde efter Tores häst Bruno. Resan gick först ganska fort längst med den större vägen mot Boden, men senare vek
-ni av mot mindre vägar där även Bruno behöver streta. Herr Hålst vänder sig mot er och säger.
+ni av mot mindre vägar där även Bruno behöver streta. Tore vänder sig mot er och säger.
 
 "Vi är nog där om ett par timmar hörrni. Som sagt så jagar vi till middag, vi gör upp en eld och äter och sen så
 rör vi oss hem igen. Så får vi hoppas att vi skjuter nått också."
@@ -773,7 +773,9 @@ Under ridturen kan du be spelarna slå ett slag för finna dolda ting. Ett lycka
 gör att de noterar den rök som stiger upp över trädkronorna norrut. "Det är en by med samer som håller hus där"
 säger Tore när han ser utredarens fundersamma blick. "De har en bit land norr om jaktmarken där de sköter sina 
 renar. Jag brukar lämna dem ifred, och så länge vi inte jagar på deras mark eller skjuter deras boskap så gör dem
-detsamma". Ett svårt lyckat slag låter de även lite senare notera en gammal stuga en bit in i skogen
+detsamma". Ett svårt lyckat slag låter de även lite senare notera en gammal stuga en bit in i skogen. Den säger 
+Tore att "Nån galning har satt upp, med samernas tillåtelse. Tror inte någon har varit där på länge, men man vet
+aldrig med sånt folk".
 
 ### I gläntan
 
@@ -782,13 +784,25 @@ detsamma". Ett svårt lyckat slag låter de även lite senare notera en gammal s
 Ni rider ett par timmar till längst det spår som indikerar att det här finns en skogsstig. Vägen ringlar sig
 mellan stock och sten, och tar sedan stopp i en skogsglänta.
 
-"Här, mina vänner, är gränsen till mitt jaktdistrikt. Jag föreslår att vi tar lite tid att sträcka på oss och
-för förberedelser. Sen rör vi oss in mot det jakttorn som ligger närmast."
+"Här, mina vänner, är mitt jaktdistrikt. Vi lämnar Bruno här med kärran för att han inte ska upptäckas av älgen. 
+Så vi fortsätter till fots. Jag föreslår att vi tar lite tid att sträcka på oss och för förberedelser. Sen rör vi 
+oss in mot det jakttorn som ligger närmast."
+
+Tore lastar av lite saker från kärran, tyglar av Bruno och binder honom i ett träd. När Tore är färdig
+kallar han till sig er.
+
+"Här ska vi se", säger han och tar upp en bit papper ur rockfickan. Det är en karta på området, där Tores jaktmark
+har märkts ut. "Vi är då här" säger han och pekar på en liten vit fläck i slutet av en prickad line föreställande
+en stig. "Den gröna markeringen längs ner är min mark där vi kan jaga. 
+Ovanför den ligger en del mark som tillhör en grupp samer, där vi absolut inte ska jaga.
+Vi ska röra oss några kilometer sydost, upp emot Snöberget, för att komma till jakttornet vi börjar med.
+Vi spenderar förmiddagen där, och om vi inte lyckas skjuta nått så får vi bestämma då ifall vi vill röra oss emot
+det andra jakttornet. Nån av er kan ju ta den här nu när vi är ute, men jag vill ha tillbaks den sen".
 
 }}
 
-Tore lastar av lite saker från kärran, tyglar av Bruno och binder binder honom i ett träd. När Tore är färdig
-säger han åt er att "det är dags", och ni börjar röra er in i skogen.
+Tore ger en av utredarna kartan. Sedan börjar de röra sig emot _Snöberget_ där jakttornet ligger. Om du vill ha lite
+interaktion kan du fråga utredarna vad de ser i skogen.
 
 \page
 
@@ -796,28 +810,66 @@ säger han åt er att "det är dags", och ni börjar röra er in i skogen.
 
 {{descriptive
 
-Det var tufft och långsamt att ta sig igenom snötäcket som låg orört av männskliga fötter och inte alls var lika
+Det var tufft och långsamt att ta sig igenom snötäcket som låg orört av mänskliga fötter och inte alls var lika
 vältrampat som stigen till gläntan. Men efter några kilometer når ni er destination; ett jakttorn som sträcker
-sig många meter upp i luften
+sig många meter upp i luften. Tore låter er klättra upp först och kommer sedan själv upp. Det är ett relativt 
+nybyggt jakttorn i trä med delar i stål. Ifrån den höjden kan man spana långt över alla träd. Åt nordväst ser ni 
+en grupp av byggnader, mest kåtor men även några timmerhus, där rök stiger från ett av taken på en kåta. 
+Långt norrut kan ni se en öppen yta som Tore berättar är Långbergsmyran.
+
+"Dåså" säger Tore efter att ni har satt er. "Vi ska börja bestämma lite skift. Vi sitter två i taget med gevär redo.
+Nu när vi sitter här uppe så ska vi jaga älg, och då använder vi oss av jaktgevären, så ni får byta med varandra 
+när ni sitter vakt. Hagelgevären kan vi använda senare om vi tröttnar på att sitta här uppe och vill testa att jaga 
+något mindre, som fasaner eller harar. Det viktigaste ni ska tänka på nu är det här: Ni får inte skjuta utan att jag
+har gett er klartecken. Om ni ser något; säg till mig så kollar jag i kikaren för att se till att det är på min mark
+och att det inte är en ren som vandrat ifrån samerna. Skjuter ni en sån kommer jag få ta smällen för det, så det här 
+är ytterst viktigt."
 
 }}
 
+Tore delar sedan in utredarna i skift. Ifall de är ett ojämnt nummer inklusive Tore, delar han upp dem på ett sätt där
+de får rotera, så en i det första skiftet får sista skiftet också. 
+
+Två timmar går och de två första skiften sker händelselöst. Du kan fråga utredarna vad de ser, och gå med på det mesta
+förutom något djur de kan jaga. Men under det tredje skiftet sker följande för en av utredarna.
+
+{{descriptive
+
+Plötsligt ser du, några hundra meter bort, något stort träda fram i en glänta. Du kan snabbt uppfatta att det är vad
+ni söker; en älg. Du uppmärksammar Tore, som också tittar och ger dig klartecken för att skjuta. Du fokuserar på den
+och tar sikte, men innan du hinner avfyra ett skott tar något din uppmärksamhet. Älgen lyfter sitt huvud mot er och du 
+kan nu se hur dess något ser fel ut med dess ögon. De är svullna och dess nedre ögonlock hänger som ett slappt skinn 
+vilket blottar den röda insidan av dess ögonhålor. Ögonen sticker ut ur huvudet, som att de inte längre får plats i 
+dess skalle. Istället för att peka ut från dess huvud, som på ett vanligt hjort-djur, stirrar de istället rakt fram 
+på dig.
+
+}}
+
+Väljer utredaren att skjuta djuret får de slå ett slag för skjutvapen(gevär) med en bonustärning på grund av deras
+fördelaktiga position samt att djuret står still. Utredaren träffar med ett normalt lyckat slag. Missar skottet 
+börjar älgen att springa och syns snart inte längre. Skjuter ingen av utredarna älgen börjar Tore istället förbereda 
+sig för att avfyra ett skott. Han menar att djuret är sjukt och behöver avlivas. Men innan Tore hinner är älgen redan 
+borta.
+
 ## Den övergivna stugan
 
-- Fönsterna till stugan är sedan länge igenbommade med plankor, satta tätt för att hindra både den kalla vinterkylan 
-och dagsljus att ta sig in.
+- På väg emot samebyn kan utredarna se ljus komma från en stuga.
+
+- Fönstret till stugan är sedan länge igenbommade med plankor, satta tätt för att hindra den kalla vinterkylan att 
+ta sig in. Man kan dock se att det lyser ur fönstret av en eld, och tittar man in kan man se en brun hårig massa
+ligga i ett hörn och en tänd kamin. 
 
 - Dörren är blockerad av en stor stubbe som, att döma de djupa skårorna i snö och jord som leder från stugan, har 
-släpats dit för att hålla dörren stängd. Den ser stor nog för att vara svår att flytta själv, men skulle nog kunna
+släpats dit för att hålla dörren stängd. Den ser stor nog för att vara svår att flytta själv, men kan
 vältas ifrån dörren men mer mankraft.
 
 - De går in i stugan
 
 - Längst in i hörnet ser ni en stor massa liggande på det plattade jordgolvet. 
 
-- Det är kroppen av en älg, till synes död med benen uträckta över golvet. Men då ni hör det raspande lätet av 
-dess tunga andetag förstår ni att detta inte verkar vara fallet. Ändå rör den sig inte, och den verkar inte 
-heller reagera på er närvaro.
+- Det är kroppen av en älg, till synes död med benen uträckta över golvet. Den ligger med huvudet i hörnet av stugan. 
+Men då ni hör det raspande lätet av dess tunga andetag förstår ni att detta inte verkar vara fallet. Ändå rör den sig 
+inte, och den verkar inte heller reagera på er närvaro.
 
 - På väggen står det skrivet med intorkat blod
 
@@ -827,7 +879,88 @@ Med ett offer av blod till jord, och jord till aska ska vi resas upp
 
 }}
 
+{{describe
+
+Plötsligt hör ni ett hostande från älgkroppen, som följs av en dov, raspig röst.
+
+"Välkomna. Det var länge sedan jag hade besök här, så jag är rädd att jag inte har något att bjuda på".
+
+Ni ser hur kroppens livlösa huvud hasar sig längst med golvet och frambringar något som ser ut som bysten av en man.
+En människas huvud har det, armbågar som slutar tvärt i två stumpar, och överdelen av en bröstkorg vars revben och 
+innandöme är blottat. Ni ser hur blodiga slamsor av kött och ådror är fästa mellan botten av bröstkorgen och den 
+älgkropp som verkar ersätta de organ bysten saknar för att hålla sig själv vid liv. Sakta ser ni hur älgkroppen 
+expanderar och sjunker samman medans bysten gör sig redo att tala, och en blottad strupe som kopplar samman de två
+kropparna och verkar leverera den luft som krävs för att aktivera dess stämband.
+
+"Jag kan inte minnas att jag bjudit hem gäster. Det är sällan jag söker umgänge från omvärlden. Och andra sidan 
+är mitt minne inte vad det än gång varit" säger bysten och skrattar för sig själv.
+
+}}
+
+Det som en gång varit en man introducerar sig som _Fabian Ström_. Undrar utredarna vad som hänt honom säger han att
+"Det var det ända sättet. Jag hade inte mycket tid kvar, men mina vänner hjälpte mig. De gav mig den här kroppen
+för att ersätta det som var dött. Sedan tog de mina ben, då jag ändå inte kunde gå någonstans. Och sen mina armar,
+då de behövde dem mer. Nu tar de hand om mig. Håller en brasa vid liv som värmer mig, och matar mig en gång per dag.
+Jag har tyvärr inte längre någon magsäck eller organ för ämnesomsättning, men de ger mig istället nytt näringsrikt 
+blod som fungerar alldeles utmärkt som ersättning."
+
+Frågar utredarna vilka hans vänner är säger han att "De är skogen själv som äntligen har vaknat. Väktare vars ögon 
+inte längre är fästa i marken, utan kan se emot himmelen. En kropp förenad i samma mål. Väntar ni här så kommer ni få se 
+dem. De brukar dyka upp runt den här tiden för att sköta om mig".
+
+Frågar utredarna om han har gjort allt det här skrattar han till och svarar att "Min inverkan på dem är lika liten som 
+min inverkan på resten av världen. Tror ni att jag är deras mästare så tror ni fel; det motsatta är nog närmare 
+sanningen. Nej jag är blott en gäst ibland dem, eller en villig träl. De håller mig vid liv, vilket jag uppskattar.
+Varför kan jag dock inte svara på är jag rädd".
+
+Blodet på väggen känner han igen, men han kan inte komma ihåg om han själv har skrivit det.
+
 \page
+
+## Samebyn
+
+- Tant i ett tält
+- Förklarar offer
+- Kräver att få en av utredarnas ögonsten i utbyte om att förklara
+{{descriptive
+
+"Endast någon som är desperat eller galen kan komma på tanken att utföra ett offer, för ett offer kräver ett högt pris. 
+Om man bortser från alla formaliteter och ritualer som krävs för en förhandling, så är ett offer inte mer än en 
+transaktion; ett utbyte mellan två parter med varor av samma värde. Man kan såklart förhandla om priset, människor har 
+i alla tider försökt med att vara i rätt omgivning, bära rätta kläder och säga rätt saker i rätt språk. Men faktumet 
+kvarstår; det finns alltid ett pris. Men ett pris är inte alltid vad man kanske tror. Det är inte guld eller 
+ädelstenar, utan det enda som sätter värdet på ett offer är hur mycket den som offrar värderar det".
+
+}}
+
+Kvinnan granskar föremålet hon just fått av utredarna och kastar sen det i elden. Flammorna reser sig högt och, 
+beroende på vad föremålet var, smälter det eller brinner upp oavsett om det är av ett material som borde tåla eld.
+
+{{descriptive
+
+"Förstår ni nu vad priset är? Människor har i alla tider lagt tid och energi på att lära sig danser för att blidka
+sina gudar och be dem om regn. Man har tagit djur som man fött upp under flera år, matat och tagit hand om dem bara för 
+att sedan ge dess liv som ett offer. Du gav mig någonting som, även fast det inte var av värde för mig, du värderade
+högt. Och för det priset gav jag dig kunskap. Förstår ni?!"
+
+}}
+
+Frågar utredarna om vad dikten betyder eller vad som varelserna tänker offra svarar hon att 
+
+{{descriptive
+
+"Jag vet redan vad dikten betyder. De som lever i skogen är desperata nog för att utföra ett offer. Ett offer av extremt 
+värde för en möjlighet att leva vidare. Och vad är inte mer värdefullt för en varelse av skogen, än skogen själv? Jag 
+kommer också vara en del av detta offer, samt ni också. Även fast de hatar oss människor ser de ett värde i vår kunskap, 
+vår handlingskraft och våra lemmar. Det gör oss till ett pris värt att offra, tillsammans med allt annat som finns i 
+denna skog. Det finns ingenstans att ta vägen för er nu. Jag har meddelat dem att ni är här och de är utanför. 
+Försök inte att fly."
+
+Plötsligt börjar mattorna ni sitter på röra sig. Tentakler av blodådror och senor kryper fram mellan mattorna, och 
+ni märker hur de kommer från kvinnan själv. Hon skrattar medans hennes ansikte börjar tappa sin form och smälter snart 
+samman till en hög av kött och ben på marken som sakta sträcker sig emot er.
+
+}}
 
 # Karaktärer
 
@@ -1301,7 +1434,7 @@ Prof. Olofsson har fått en som en gåva ifrån en medlem i sällskapet, som han
 systerdotter. Den ligger nu i professorns nattygsbord i hans villa. Kniven har tre krökta blad och ett grepp
 vinkelrätt emot dess blad.
 
-![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/main/img/LeopardKniv.png?raw=true) {width:325px,mix-blend-mode:multiply}
+![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/homebrewery/img/LeopardKniv.png?raw=true) {width:325px,mix-blend-mode:multiply}
 
 
 

@@ -237,7 +237,7 @@ offret vara _från bärarens kött_, helst en son eller dotter men övriga offer
 inträffat. När denna borfima fyllts på, det gruppen kallat att _mata_ borfiman, ska denne bringa lycka och
 makt åt innehavaren. En dåligt skött borfima ska däremot bringa olycka på hela dennes familj.
 
-####### Utdrag ur _Poro-, Leopard- och Krokodilsällskapet; Naturreligioner i Sierra Leon och nordöstra Afrika_, Prof. T Olofsson.
+###### Utdrag ur _Poro-, Leopard- och Krokodilsällskapet; Naturreligioner i Sierra Leon och nordöstra Afrika_, Prof. T Olofsson.
 
 }}
 
@@ -346,7 +346,7 @@ Jag går åt det håll dit där solen går ner
 
 Tre fram, en höger och sedan två bak
 
-När jag till sist går till vänster,
+När jag till sist går till höger,
 
 är där tornet även idag.
 }}
@@ -448,7 +448,7 @@ lapp är fäst på hans dörr.
 
 Ursäkta min brådskande frånvaro, men av tragiska familjeskäl har jag blivit tvungen att ta tjänstledigt. Jag beklagar, då jag har nämnt för mina studenter att jag ska vara närvarande idag, samt ber jag om ursäkt för de möten som jag tvärt blivit tvungen att ställa in. Jag är dock åter igen imorgon under mina vanliga arbetstider.
 
-####### Prof. Olofsson
+###### Prof. Olofsson
 
 }}
 
@@ -749,6 +749,8 @@ vem kommer att jagas?
 
 ## Äventyrets början
 
+![](https://github.com/JosefUtbult/Rovdjur_i_Norrbotten/blob/homebrewery/img/Jakten_Karta.png?raw=true) {width:325px,mix-blend-mode:multiply}
+
 {{descriptive
 
 Kylan biter i era blottade ansikten. För varje andetag ser ni hur kristaller bildas i luften och snabbt
@@ -766,6 +768,12 @@ rör vi oss hem igen. Så får vi hoppas att vi skjuter nått också."
 Låt spelarna få prata av sig lite. Efter det kan du påminna dem om att de har med sig jaktvapen. De kan välja
 mellan att ha ett [Remington jaktgevär](#skjutvapen) eller ett [Hagelgevär](#skjutvapen). Ge varje spelare det
 antal skott specificerat, i form av någon sorts token. Spelkulor eller mynt är bra tokens.
+
+Under ridturen kan du be spelarna slå ett slag för finna dolda ting. Ett lyckat normalt slag för en utredare
+gör att de noterar den rök som stiger upp över trädkronorna norrut. "Det är en by med samer som håller hus där"
+säger Tore när han ser utredarens fundersamma blick. "De har en bit land norr om jaktmarken där de sköter sina 
+renar. Jag brukar lämna dem ifred, och så länge vi inte jagar på deras mark eller skjuter deras boskap så gör dem
+detsamma". Ett svårt lyckat slag låter de även lite senare notera en gammal stuga en bit in i skogen
 
 ### I gläntan
 
@@ -791,6 +799,31 @@ säger han åt er att "det är dags", och ni börjar röra er in i skogen.
 Det var tufft och långsamt att ta sig igenom snötäcket som låg orört av männskliga fötter och inte alls var lika
 vältrampat som stigen till gläntan. Men efter några kilometer når ni er destination; ett jakttorn som sträcker
 sig många meter upp i luften
+
+}}
+
+## Den övergivna stugan
+
+- Fönsterna till stugan är sedan länge igenbommade med plankor, satta tätt för att hindra både den kalla vinterkylan 
+och dagsljus att ta sig in.
+
+- Dörren är blockerad av en stor stubbe som, att döma de djupa skårorna i snö och jord som leder från stugan, har 
+släpats dit för att hålla dörren stängd. Den ser stor nog för att vara svår att flytta själv, men skulle nog kunna
+vältas ifrån dörren men mer mankraft.
+
+- De går in i stugan
+
+- Längst in i hörnet ser ni en stor massa liggande på det plattade jordgolvet. 
+
+- Det är kroppen av en älg, till synes död med benen uträckta över golvet. Men då ni hör det raspande lätet av 
+dess tunga andetag förstår ni att detta inte verkar vara fallet. Ändå rör den sig inte, och den verkar inte 
+heller reagera på er närvaro.
+
+- På väggen står det skrivet med intorkat blod
+
+{{letter
+
+Med ett offer av blod till jord, och jord till aska ska vi resas upp
 
 }}
 

@@ -737,7 +737,7 @@ fram direkt i historiens händelseförlopp, medans det ibland endast relaterar s
 
 ## Bakgrund
 
-Tore Hålst är en äldre herre i tidiga femtioårsåldern med en gård utanför Råneå, norr om Luleå. Han ärvde gården
+_Tore Hålst_ är en äldre herre i tidiga femtioårsåldern med en gård utanför Råneå, norr om Luleå. Han ärvde gården
 och har följt sin faders fotspår resulterande i hans yrke som grisbonde. Det är ett bra jobb, men herr Hålst
 suktar alltid efter hans sanna passion: Jakt. När han är där ute i den råa vildmarken om vintrarna, tålmodigt
 spejande efter älg mår Tore som bäst. Och efter ridturen hem med sitt pris bundet på släden sätter han sig vid
@@ -851,6 +851,71 @@ börjar älgen att springa och syns snart inte längre. Skjuter ingen av utredar
 sig för att avfyra ett skott. Han menar att djuret är sjukt och behöver avlivas. Men innan Tore hinner är älgen redan 
 borta.
 
+### Möte med djuren
+
+Om utredaren träffat älgen faller den snabbt ihop. Beger de sig dit den föll visar det sig att kroppen är borta och 
+det enda som finns kvar är blodiga spår längst marken efter något tungt som har släpats. En utredare som stannat kvar
+i vakttornet skulle ha möjlighet att se två andra älgar dyka upp, inspektera kroppen och släpa bort den tillbaks in i 
+skogen.
+
+Väljer utredarna att följa efter spåren händer följande
+
+{{descriptive
+
+Ni rör er längst med det blodiga spåret på marken. Det är inte svårt att följa då det röda blodet sticker ut bland 
+allt vitt omkring er. Efter ungefär en halv kilometer hör ni hur stora kroppar rör sig bortom en tätare grupp träd.
+Ni hör knakande och slafsande ljud kombinerat med låga grymtande.
+
+}}
+
+Låt utredarna bestämma om alla vill gå fram eller om de vill smyga. Det finns en del skydd att ta bakom en grupp träd.
+Låt utredarna slå ett slag för att smyga. Djuren längre fram är inte fokuserade på omgivningen och kommer inte märka
+något om utredaren slår ett normalt lyckat slag.
+
+{{descriptive
+
+Framför dig ser du en makaber samling djur. Det är en älgtjur med kraftiga horn, en något mindre älgko samt underligt 
+nog en ren. Den tjocka pälsen på deras nackar är täckta i blod som runnit ner från deras munnar. Du ser hur de böjer
+sig ner och sliter av stora stycken kött från den kropp ni spårat till platsen. De verkar mala ner dess ben med sina 
+breda tänder då de inte alls är skapta för att konsumera den här sortens föda. När älgkon böjer sig ner och hugger tag
+i kroppens nacke ser du plötsligt hur dess blottade öga rör på sig för att titta på honan. Du inser då att kroppen 
+fortfarande är vid liv.
+
+}}
+
+En utredare som ser detta tar 1T4/1T8 av skada i sinneshälsa. En utredare som går in i temporär galenskap av detta
+kräks på marken och ger ifrån sig ett hulkande ljud. Be denne slå ett turslag för att se om djuren hörde detta. 
+
+Blir en utredare upptäckt kommer djuren börja med att signalera andra djur med ett vrål. Sedan går de till attack.
+
+## Tillbaka i gläntan
+
+{{descriptive
+
+När ni kommer tillbaks till den gläntan där ni lämnade er kärra inser ni snabbt att någonting är fel. Ni ser att 
+kärran som ni tagit er hit med är krossad, era tillhörigheter är spridda på marken, och en blodig kropp ligger i den
+vita snön vid ett träd. Tore släpper geväret han håller i och rusar emot kroppen. Väl där ställer han sig på huk och
+utbringar ett klagande vrål. Det är Bruno, Tores häst, som ligger på marken. Hästen är blodig, han har stora köttsår 
+över hela kroppen och ett av hans bakben ligger vridet i en onaturlig vinkel.
+
+}}
+
+Låt utredarna ta sig närmare och undersöka situationen. Med ett lyckat slag för att spåra kan de se att ett flertal
+hovar av olika slag finns runtomkring vagnen och hästen. De verkar ha omringat Bruno och ni misstänker att de har
+gått till attack. Vill utredarna försöka leta efter något speciellt kan de slå ett slag för finna dolda ting för
+att finna det de söker.
+
+Efter en stund händer dock detta.
+
+{{descriptive
+
+Ni hör hur Tore gråter. Han sätter sig i snön och omfamnar Brunos hals och kramar om sin före detta kompanjon.
+Plötsligt rycker hästen till. Med en onaturligt vriden nacke biter den tag i Tores hals. Blod sprutar medans er vän
+skriker och försöker separera sig från djuret. Men Tores röst upphör i ett kraftigt knak då hästen krossar hans 
+ryggrad. Ni ser hur den släpper Tores livlösa kropp och börjar resa sig. 
+
+}}
+
 ## Den övergivna stugan
 
 - På väg emot samebyn kan utredarna se ljus komma från en stuga.
@@ -865,6 +930,8 @@ vältas ifrån dörren men mer mankraft.
 
 - De går in i stugan
 
+- Klösmärken på insidan av dörren
+
 - Längst in i hörnet ser ni en stor massa liggande på det plattade jordgolvet. 
 
 - Det är kroppen av en älg, till synes död med benen uträckta över golvet. Den ligger med huvudet i hörnet av stugan. 
@@ -875,7 +942,7 @@ inte, och den verkar inte heller reagera på er närvaro.
 
 {{letter
 
-Med ett offer av blod till jord, och jord till aska ska vi resas upp
+Med ett offer av blod till jord, och jord till aska ska våra ögon inte längre vara täckta.
 
 }}
 
@@ -1216,7 +1283,40 @@ under natten. Därför har en organisation inrättats, för att hålla ett öga 
 information till de som organisationen ser passande. De är _väktarna på gatorna_ och _de som vakar i mörkret_.
 Nattväktarna har ett utskott i Luleå, där de primärt håller ett öga på [SRT](#srt).
 
+{{cocCharacter
 
+{{cocStatsBlock
+
+### Tore Hålst
+
+Bonde samt jagare från Råneå
+
+|        |        |        |        |
+|--------|--------|--------|--------|
+| STY 70 | FYS 50 | STO 70 | SMI 30 |
+| INT 40 | KAR 65 | VST 55 | UTB 45 |
+
+}}
+
+**KP**            : 12
+
+**Skadebonus**    : -
+
+**Kroppsbyggnad** : 0
+
+**Förflyttning**  : 8
+
+:
+
+**Färdigheter** : Språk (Svenska) 50%, Spåra 40%, Skjutvapen (gevär) 50%, 
+Skjutvapen (hagelgevär) 40%, Överlevnad (Skog) 20%
+
+}}
+
+_Tore Hålst_ är en grisbonde som har sin gård utanför Råneå, norr om Luleå. Han är en äldre herre i tidiga 
+femtioårsåldern, kraftigt byggd och ännu stark trots sin ålder. När han inte tar hand om sin gård gillar Tore att
+jaga, och han har köpt en bit mark för just det ändamålet. Han brukar ta sin häst Bruno till sin jaktmark, antingen
+i sällskap av ett jaktlag eller själv, och spendera sina lediga dagar i ett av hans två jakttorn.
 
 \page
 
@@ -1235,10 +1335,13 @@ tegelvägg och tar tag i en utredare.
 
 En läm likt en leopards, täckt i blod och tänder
 
-|        |        |        |
-| ------ | ------ | ------ |
-| STY 95 | FYS 50 | STO 10 |
-| SMI 15 | INT 20 |
+| Egenskap | Genomsnitt | Slag    |
+|----------|------------|---------|
+| STY      | 95         | 6T6 x 5 |
+| FYS      | 50         | 3T6 x 5 |
+| STO      | 10         | 1T4 + 8 |
+| SMI      | 15         | 2T6 + 8 |
+| INT      | 20         | 2T4 x 5 |
 
 }}
 
@@ -1318,10 +1421,13 @@ av blod och ben. Professorn kan bara åkalla en leopard per dag, igenom en utfö
 
 Animerad best likt en leopard
 
-|        |        |        |
-| ------ | ------ | ------ |
-| STY 95 | FYS 50 | STO 90 |
-| SMI 80 | INT 30 |
+| Egenskap | Genomsnitt | Slag    |
+|----------|------------|---------|
+| STY      | 95         | 6T6 x 5 |
+| FYS      | 50         | 3T6 x 5 |
+| STO      | 90         | 5T6 x 5 |
+| SMI      | 75         | 4T6 x 5 |
+| INT      | 30         | 3T4 x 5 |
 
 }}
 
@@ -1369,10 +1475,17 @@ Porsön. De är inga kriminella genier, men de kan ändå hålla sig i en strid
 
 Ligist från _Porsöligan_
 
-|        |        |        |        |
-| ------ | ------ | ------ | ------ |
-| STY 65 | FYS 50 | STO 45 | SMI 40 |
-| INT 30 | KAR 35 | VST 35 | UTB 30 |
+
+| Egenskap | Genomsnitt | Slag    |
+|----------|------------|---------|
+| STY      | 65         | 4T6 x 5 |
+| FYS      | 50         | 3T6 x 5 |
+| STO      | 45         | 3T6 x 5 |
+| SMI      | 40         | 2T8 x 5 |
+| INT      | 30         | 2T6 x 5 |
+| KAR      | 35         | 2T6 x 5 |
+| VST      | 35         | 2T6 x 5 |
+| UTB      | 30         | 2T6 x 5 |
 
 }}
 
@@ -1396,6 +1509,233 @@ Ligist från _Porsöligan_
 
 }}
 
+### De Upplysta
+
+_De Upplysta_ är en grupp hortdjur som har blivit välsignade av _Sub-Niggorath_ och därför ha börjat forma sapience. 
+De upplysta har vaknat till vad det innebär att vara en del av denna värld och har kommit till insikten att de inte 
+kommer kunna leva i harmoni med världens nuvarande härskare: Människan.
+
+Men för en lyckad revolt och överlevnad vet de att priset är högt. De har avsagt sig all individualitet och 
+självbevarelsedrift i mån om gruppens överlevnad. Detta till den grad att de lyckats tvinga sina kroppar att acceptera 
+främmande celler för att kunna dela biomassa mellan individer. De kan skörda organ och lämmar både från varandra, 
+men också från andra, transplantera dessa och forma sina egna kroppar. 
+
+En upplyst kan vara allt från ett djur med svullna stirrande ögon och underliga proportioner, till massor av kött med
+ett flertal huvuden, armar skördare från människor och rader av ben likt en absurd tusenfoting.
+
+#### Upplyst Älgtjur
+
+En _Upplyst Älgtjur_ är en till synes normal älg, något större än en älgko. Förutom dess stirrande blick och ibland 
+underliga proportioner är den svår att urskilja från en vanlig älg.
+
+{{cocCharacter
+{{cocStatsBlock
+
+#### Upplyst Älgtjur
+
+_Alces Sapience_, hanälg bland _De Upplysta_
+
+| Egenskap | Genomsnitt | Slag           |
+|----------|------------|----------------|
+| STY      | 140        | (3T6 + 18) x 5 |
+| FYS      | 65         | (2T6 + 6) x 5  |
+| STO      | 165        | (6T6 + 12) x 5 |
+| SMI      | 50         | 3T6 x 5        |
+| INT      | 75         | (2T6 + 3) x 5  |
+| VST      | 75         | (2T6 + 3) x 5  |
+
+}}
+
+**KP**        	       : 23
+
+**Skadebonus**         : +2T6
+
+**Attacker per runda** : 1
+
+**Magipoäng**          : 15
+
+**Kroppsbyggnad**      : 4
+
+**Förflyttning**       : 12
+
+:
+
+**Färdigheter** : Strid 50%, Smyga 25%, Ducka 30%
+
+#### Attacker
+
+**Stånga**: En älgtjur som har mer än fem meter mellan sig och dess mål kan ramma ett mål med dess huvud och dess 
+kraftiga horn. Då det är svårt att träffa med en såpass lång attack har älgtjuren nackdel när den slår för detta.
+En träff resulterar i 2T6 krossande skada + 2T6 spetsande skada + Skadebonus. En extrem framgång ger bara djupskada 
+för den spetsande delen av attacken (plus skadebonus), och för den krossande skadan gäller regler kring trubbiga vapen.
+
+**Bita**: En älgtjur har ett kraftigt bett som genererar 2T4 + Skadebonus i skada. Notera att då denne har platta 
+tänder som inte är till för att ta sig igenom kött kommer ett normalt lyckat slag inte att penetrera huden på en 
+utredare, utan bara fungera som krossande skada. Ett slag med högre nivå kan däremot slita av stora bitar av kött och 
+även lämmar.
+
+**Sparkas**: En älgtjurs kraftiga ben kan resultera i en kraftig skada då den väljer att sparka en utredare. 
+2T4 + Skadebonus levererar en kraftig spark.
+
+}}
+
+#### Upplyst Älgko
+
+En _Upplyst Älgko_ är en till synes normal älg, något mindre än en älgtjur. Förutom dess stirrande blick och ibland
+underliga proportioner är den svår att urskilja från en vanlig älg.
+
+{{cocCharacter
+{{cocStatsBlock
+
+#### Upplyst Älgko
+
+_Alces Sapience_, honälg bland _De Upplysta_
+
+| Egenskap | Genomsnitt | Slag           |
+|----------|------------|----------------|
+| STY      | 110        | (3T6 + 12) x 5 |
+| FYS      | 50         | 3T6 x 5        |
+| STO      | 120        | (5T6 + 6) x 5  |
+| SMI      | 65         | (2T6 + 6) x 5  |
+| INT      | 75         | (2T6 + 3) x 5  |
+| VST      | 75         | (2T6 + 3) x 5  |
+
+}}
+
+**KP**        	       : 21
+
+**Skadebonus**         : +1T8
+
+**Attacker per runda** : 1
+
+**Magipoäng**          : 15
+
+**Kroppsbyggnad**      : 4
+
+**Förflyttning**       : 12
+
+:
+
+**Färdigheter** : Strid 50%, Smyga 25%, Ducka 30%
+
+#### Attacker
+
+**Stånga**: En älgko som har mer än fem meter mellan sig och dess mål kan ramma ett mål med dess huvud. 
+Då det är svårt att träffa med en såpass lång attack har älgkon nackdel när den slår för detta.
+En träff resulterar i 2T6 krossande skada + Skadebonus.
+
+**Bita**: En älgko har ett kraftigt bett som genererar 1T6 + Skadebonus i skada. Notera att då denne har platta
+tänder som inte är till för att ta sig igenom kött kommer ett normalt lyckat slag inte att penetrera huden på en
+utredare, utan bara fungera som krossande skada. Ett slag med högre nivå kan däremot slita av stora bitar av kött och
+även lämmar.
+
+**Sparkas**: En älgtjurs kraftiga ben kan resultera i en kraftig skada då den väljer att sparka en utredare.
+1T6 + Skadebonus levererar en kraftig spark.
+
+}}
+
+#### Upplyst Ren
+
+En _Upplyst Ren_ är en till synes normal ren. Förutom dess stirrande blick och ibland underliga proportioner är den 
+svår att urskilja från en vanlig ren. Då både rentjurar och renkor har horn görs ingen skillnad på deras egenskaper.
+Renar som blivit en del av De Upplysta kommer vanligtvis från Samers horder och kan ha både utsmyckningar samt selar
+på sig. De väljer dock oftast att göra sig av med dessa.
+
+{{cocCharacter
+{{cocStatsBlock
+
+#### Upplyst Ren
+
+_Rangifer Sapience_, ren bland _De Upplysta_
+
+| Egenskap | Genomsnitt | Slag           |
+|----------|------------|----------------|
+| STY      | 110        | (3T6 + 12) x 5 |
+| FYS      | 65         | (2T6 + 6) x 5  |
+| STO      | 100        | (4T6 + 6) x 5  |
+| SMI      | 75         | (2T6 + 3) x 5  |
+| INT      | 75         | (2T6 + 3) x 5  |
+| VST      | 75         | (2T6 + 3) x 5  |
+
+}}
+
+**KP**        	       : 18
+
+**Skadebonus**         : +1T6
+
+**Attacker per runda** : 1
+
+**Magipoäng**          : 15
+
+**Kroppsbyggnad**      : 3
+
+**Förflyttning**       : 13
+
+:
+
+**Färdigheter** : Strid 50%, Smyga 25%, Ducka 30%
+
+#### Attacker
+
+**Stånga**: En ren som har mer än tre meter mellan sig och dess mål kan ramma ett mål med dess huvud.
+Då det är svårt att träffa med en såpass lång attack har älgkon nackdel när den slår för detta.
+En träff resulterar i 2T6 krossande skada + Skadebonus.
+
+**Bita**: En ren har ett kraftigt bett som genererar 1T6 + Skadebonus i skada. Notera att då denne har platta
+tänder som inte är till för att ta sig igenom kött kommer ett normalt lyckat slag inte att penetrera huden på en
+utredare, utan bara fungera som krossande skada. Ett slag med högre nivå kan däremot slita av stora bitar av kött och
+även lämmar.
+
+**Sparkas**: En älgtjurs kraftiga ben kan resultera i en kraftig skada då den väljer att sparka en utredare.
+1T6 + Skadebonus levererar en kraftig spark.
+
+}}
+
+#### Hästen Bruno (Upplyst)
+
+Efter en våldsam strid med en grupp upplysta ligger hästen Bruno skadad på marken. Han är döende och kraftigt skadad 
+med endast tre fungerande ben. Men han har fått en gåva av de som attackerat honom: Han förstår dem. En nu upplyst 
+Bruno lämnas i gläntan för att lägga ett bakhåll.
+
+{{cocCharacter
+{{cocStatsBlock
+
+#### Hästen Bruno (Upplyst)
+
+Tores Häst, nu upplyst
+
+|         |        |         |
+|---------|--------|---------|
+| STY 140 | FYS 75 | STO 170 |
+| SMI 20  | INT 50 | VST 50  |
+
+}}
+
+**KP**        	       : 14
+
+**Skadebonus**         : +2T6
+
+**Attacker per runda** : 1
+
+**Kroppsbyggnad**      : 4
+
+**Förflyttning**       : 4
+
+:
+
+**Färdigheter** : Strid 40%, Ducka 20%
+
+#### Attacker
+
+**Bita**: Bruno har ett kraftigt bett som genererar 2T4 + Skadebonus i skada. Detta bett var vad som kvickt tog livet 
+av hans före detta mästare. Notera att då denne har platta tänder som inte är till för att ta sig igenom kött kommer 
+ett normalt lyckat slag inte att penetrera huden på en utredare, utan bara fungera som krossande skada. Ett slag med 
+högre nivå kan däremot slita av stora bitar av kött och även lämmar.
+
+**Sparkas**: Brunos kraftiga ben kan resultera i en kraftig skada då den väljer att sparka en utredare.
+2T4 + Skadebonus levererar en kraftig spark.
+
+}}
 
 \page
 
